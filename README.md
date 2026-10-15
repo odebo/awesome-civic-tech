@@ -63,6 +63,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Open Corporates](https://opencorporates.com/) – The largest open database of companies in the world.
 - [Civic Information API (Google)](https://developers.google.com/civic-information) – Provides information on polling places, political representatives, and more.
 - [EveryPolitician](https://everypolitician.org/) – Open data on national politicians from every country.
+- [US Traffic Ticket Courts & Payment Portals](https://ticketsimplified.com/open-data/) – A CC0 dataset and key-less JSON API mapping which U.S. court or agency owns a traffic citation and where that agency's own official payment or contest page lives, covering 153 cities across 21 states.
 
 ## Communities & Organizations
 
